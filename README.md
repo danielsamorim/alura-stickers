@@ -20,15 +20,25 @@ Projeto feito durante a Imersão Java da Alura. O objetivo era consumir uma API 
 
 ## 1º Dia 
 
-Buscar os 250 filmes mais bem avaliados do IMDb e "pegar" o nome do filme, a classificação e o poster. 
+Buscar os 250 filmes mais bem avaliados e os mais populares do IMDb. 
+O nome do filme, a classificação e o link poster são processados e exibidos dessa forma no terminal. As estrelas são exibidas com base na nota do filme na plataforma.
+
+![Top Movies do IMDB!](/topmovies.png "Classificação dos filmes")
+
+![Most Popular Movies do IMDB!](/mostpopular.png "Classificação dos filmes")
+
 
 ## 2º Dia
 
-Criar imagens no formato png com um texto para enviar como figurinha no WhatsApp.
+Criar imagens no formato png com um texto para enviar como figurinha no WhatsApp. As imagens base para esse dia foram os posters de filme da API do IMDb e da Nasa
+
+![](/saida/figurinha.png "")
+
 
 ## 3º Dia
 
-Dedicado a refatorar o código, criando novas classes para não deixar todo o código em uma única classe. 
+Dedicado a refatorar o código, trabalhar os conceitos de O.O, criando novas classes e distribuir as responsabilidades do código.
+
 
 ## 4º Dia 
 
