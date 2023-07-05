@@ -37,7 +37,7 @@ Criar imagens no formato png com um texto para enviar como figurinha no WhatsApp
 
 ## 3º Dia
 
-Dedicado a refatorar o código, trabalhar os conceitos de O.O, criando novas classes e distribuir as responsabilidades do código.
+Dedicado a refatorar o código, trabalhar os conceitos de O.O, criando novas classes e distribuindo as responsabilidades do código.
 
 
 ## 4º Dia 
