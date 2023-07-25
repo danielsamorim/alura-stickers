@@ -42,4 +42,4 @@ Dedicado a refatorar o código, trabalhar os conceitos de O.O, criando novas cla
 
 ## 4º Dia 
 
-Acrescenta a [API de linguagens](https://github.com/danielsamorim/imersao-java-linguagens-api) para criar figurinhas com o logo das linguagens de programação.
+Acrescenta a [API de linguagens](https://github.com/danielsamorim/api-linguagens) para criar figurinhas com o logo das linguagens de programação.
